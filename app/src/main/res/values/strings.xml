@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_submit">Submit</string>
+    <string name="edit_text1">Enter name</string>
+    <string name="edit_pass">Enter password</string>
+    <string name="text_view">Login Activity</string>
+</resources>
